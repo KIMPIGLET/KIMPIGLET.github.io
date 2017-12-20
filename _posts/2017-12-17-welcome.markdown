@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017 OSS final video and code"
+title: "2017 OSS final video and code (Kim taehyun)"
 date: 2017-12-17
 categories:
 ---
